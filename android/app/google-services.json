@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161649217459",
+    "project_id": "psychic-cycling-395302",
+    "storage_bucket": "psychic-cycling-395302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161649217459:android:be82ac9754a0bcb62685c6",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4umqV6QGKJU17Hzzx99RpDa3BTtcms0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
